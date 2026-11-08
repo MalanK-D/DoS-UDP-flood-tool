@@ -1,5 +1,7 @@
 import socket
 import time
+print("im sorry this code wont work because i messed something up i will fix it")
+exit()
 print("--- [DISCLAIMER] Narzędzie wyłącznie do celów edukacyjnych i testów we własnym środowisku. Autor nie ponosi odpowiedzialności za szkody!!! ---")
 print("--- [DISCLAIMER] Educational purposes only. Use at your own risk. The author is not responsible for any misuse or damage!!! ---")
 target_ip = int(input("podaj ip "))
